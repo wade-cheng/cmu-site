@@ -1,0 +1,3 @@
+Website hosted on cmu servers at https://andrew.cmu.edu/~wadec.
+
+`scp -r www wadec@unix.andrew.cmu.edu` from /cmu-site to recursively upload files to /www.
